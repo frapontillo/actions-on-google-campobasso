@@ -1,0 +1,21 @@
+{
+  "name": "dialogflowFirebaseFulfillment",
+  "description": "Cloud Functions - da Google Home a Raspberry Pi",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Francesco Pontillo",
+  "engines": {
+    "node": "~6.0"
+  },
+  "scripts": {
+    "start": "firebase serve --only functions:dialogflowFirebaseFulfillment",
+    "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5.7",
+    "dialogflow-fulfillment": "0.3.0-beta.1"
+  }
+}
