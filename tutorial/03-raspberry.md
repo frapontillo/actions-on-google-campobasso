@@ -55,16 +55,16 @@ Congratulazioni! Hai completato questo tutorial!
 Se vuoi, non ti resta che eseguire il deploy dell'azione su "Actions on Google".
 Da Dialogflow, vai nella sezione "Integrations":
 
-![](../03-raspberry/01-integrations.png)
+![](03-raspberry/01-integrations.png)
 
 Clicca su "Integrartion settings", ti si presenterà la seguente schermata:
 
-![](../03-raspberry/02-test.png)
+![](03-raspberry/02-test.png)
 
 Cliccando su "Test" e procedendo, verrai reindirizzato al simulatore di Actions
 on Google, dal quale potrai facilmente testare la tua azione!
 
-![](../03-raspberry/03-simulator.png)
+![](03-raspberry/03-simulator.png)
 
 ## Nome dell'azione
 

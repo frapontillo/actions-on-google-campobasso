@@ -12,7 +12,7 @@ alle richieste che provengono da Dialogflow.
 Nella barra laterale sinistra, clicca su Fulfillment, ti si presenterà la
 seguente schermata:
 
-![](../02-fulfillment/01-main.png)
+![](02-fulfillment/01-main.png)
 
 Abilita la seconda opzione, "Inline Editor". Questo ti
 permetterà di scrivere la funzione di fulfillment direttamente nel browser,
@@ -21,7 +21,7 @@ senza dover installare alcun software sulla tua macchina.
 ## Scrittura codice di Fulfillment
 
 Per completare il tutorial nel modo più veloce, puoi copiare e incollare il
-codice disponibile in [questo repository](../functions) nelle due schede che hai
+codice disponibile in [questo repository](functions) nelle due schede che hai
 appena abilitato.
 
 Assicurati di aver copiato il contenuto di entrambi i file, `index.js` e
@@ -93,7 +93,7 @@ completato con successo
 * `catch`, per specificare cosa fare in caso l'operazione asincrona ha fallito
 
 Se vuoi avere più informazioni sulle Promise, puoi leggere
-[questo articolo]().
+[questo articolo](https://developers.google.com/web/fundamentals/primers/promises).
 
 ## Deploy del fulfillment
 

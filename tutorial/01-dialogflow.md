@@ -19,7 +19,7 @@ tuo gruppo.
 
 Aprendo il progetto, ti si presenterà l'interfaccia principale di Dialogflow:
 
-![](../01-dialogflow/01-create-intent.png)
+![](01-dialogflow/01-create-intent.png)
 
 In questo primo passo non dovrai scrivere neanche una riga di codice, in quanto
 l'intera configurazione è gestibile tramite interfaccia visuale.
@@ -33,7 +33,7 @@ destra.
 Diamo un nome al nostro Intent. Come primo esempio, possiamo usare "Accendi LED".
 Chiaramente, questo sarà l'Intent che gestirà il comando per accendere il LED.
 
-![](../01-dialogflow/02-name-intent.png)
+![](01-dialogflow/02-name-intent.png)
 
 Sei libero di dare il nome che vuoi all'Intent, ma accertati che sia un nome
 identificativo per l'operazione che l'Intent dovrà eseguire.
@@ -52,7 +52,7 @@ oppure:
 Puoi aggiungere qualsiasi frase desideri, purché sia semanticamente compatibile
 con l'Intent che stiamo configurando 😉.
 
-![](../01-dialogflow/03-add-training-phrases.png)
+![](01-dialogflow/03-add-training-phrases.png)
 
 Il sistema alla base di Dialogflow apprenderà dalle frasi di esempio che hai
 aggiunto, e potrà rispondere anche a richieste leggermente diverse, ma con
@@ -77,7 +77,7 @@ Tale processo è chiamato, su Dialogflow, "fulfillment".
 Per l'Intent creato, espandere la sezione "Fulfillment" e selezionare l'opzione
 "Enable webhook call for this intent".
 
-![](../01-dialogflow/04-enable-fulfillment.png)
+![](01-dialogflow/04-enable-fulfillment.png)
 
 Salva l'Intent appena creato dal pulsante in alto a destra.
 
@@ -96,7 +96,7 @@ per poter gestire diversi comandi.
 
 Al termine della configurazione, dovresti avere la seguente lista di Intent:
 
-![](../01-dialogflow/05-end.png)
+![](01-dialogflow/05-end.png)
 
 ## Prossimo passo
 
