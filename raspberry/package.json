@@ -1,0 +1,12 @@
+{
+  "name": "raspberry",
+  "description": "Server Web per gestire hardware su Raspberry Pi",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Francesco Pontillo",
+  "dependencies": {
+    "express": "^4.16.3",
+    "onoff": "^2.0.0"
+  }
+}
