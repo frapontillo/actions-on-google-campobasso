@@ -14,10 +14,11 @@ Oppure:
 Visita il sito https://console.dialogflow.com/ ed esegui il login con l'email
 con cui ti è stato dato accesso.
 
-Troverai il progetto `actions-on-google-gruppo-XYZ`, dove `XYZ` è il nome del
-tuo gruppo.
+Crea un nuovo agente, ed assegna il nome che vuoi.
 
-Aprendo il progetto, ti si presenterà l'interfaccia principale di Dialogflow:
+Seleziona la lingua italiana e abilita l'utilizzo di Diagloflow API v2.
+
+Aprendo il progetto appena creato, ti si presenterà l'interfaccia principale di Dialogflow:
 
 ![](01-dialogflow/01-create-intent.png)
 

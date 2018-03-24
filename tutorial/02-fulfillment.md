@@ -21,7 +21,7 @@ senza dover installare alcun software sulla tua macchina.
 ## Scrittura codice di Fulfillment
 
 Per completare il tutorial nel modo più veloce, puoi copiare e incollare il
-codice disponibile in [questo repository](functions) nelle due schede che hai
+codice disponibile in [questo repository](../functions) nelle due schede che hai
 appena abilitato.
 
 Assicurati di aver copiato il contenuto di entrambi i file, `index.js` e
