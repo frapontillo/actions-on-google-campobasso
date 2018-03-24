@@ -6,7 +6,7 @@ const Gpio = require('onoff').Gpio;
 
 app.get('/', (req, res) => res.send('Hello World!'));
 
-const led() => {
+const led = () => {
   return new Gpio(20, 'out');
 }
 
