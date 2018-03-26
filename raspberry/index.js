@@ -7,7 +7,7 @@ const Gpio = require('onoff').Gpio;
 app.get('/', (req, res) => res.send('Hello World!'));
 
 const getLed = () => {
-  return new Gpio(20, 'out');
+  return new Gpio(25, 'out');
 }
 
 app.post('/led/on', (req, res) => {
